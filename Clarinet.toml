@@ -1,12 +1,12 @@
 [project]
-name = "blank-project"
-description = "Create a project from scratch: Start from a blank scaffold for your next Clarity contract"
+name = "wasplash"
+description = "wasplash to guapo"
 authors = []
 telemetry = true
 cache_dir = "./.cache"
 
-# [contracts.CHANGE-THIS-TO-YOUR-CONTRACT-NAME]
-# path = "contracts/CHANGE-THIS-TO-YOUR-CONTRACT-NAME.clar"
+# [contracts.SP1AJVMEGSMD6QCSZ1669Z5G90GEHVK2MEM7J0AHH.wasplash]
+# path = "contracts/wasplash.clar"
 
 [repl.analysis]
 passes = ["check_checker"]
